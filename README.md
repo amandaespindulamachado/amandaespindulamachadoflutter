@@ -2,6 +2,8 @@
 
 Projeto Avaliativo Final — Mobile Flutter T1 | Módulo 01 · Semana 13
 
+Vídeo: https://drive.google.com/file/d/1EO1DnsuF_lryXmcxaQIBRRrYOSTqgpn3/view?usp=sharing
+
 ---
 
 ## 📋 Sobre o Projeto
